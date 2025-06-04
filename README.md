@@ -8,7 +8,7 @@ This site showcases my work experience, technical projects, certifications, and 
 
 ## 🔗 Live Preview
 
-> `Coming Soon` — Deployed version will be available at: `https://destinybluez.github.io/` (or `127.0.0.1:5500` if running locally.)
+> `Coming Soon` — Deployed version will be available at: `https://destinybluez.github.io/` (or `127.0.0.1:5500` if running locally)
 
 ---
 
